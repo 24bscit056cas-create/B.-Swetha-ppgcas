@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple CSS Example</title>
+  <style>
+    body {
+      background-color: lightblue; /* Page background */
+    }
+    h1 {
+      color: darkblue; /* Heading text color */
+      text-align: center; /* Center align heading */
+    }
+    p {
+      font-size: 20px; /* Bigger text */
+      color: darkgreen;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, Swetha!</h1>
+  <p>This is a simple CSS coding example.</p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple JavaScript Example</title>
+</head>
+<body>
+  <h1>JavaScript Example</h1>
+  <p id="demo">Click the button to see magic ✨</p>
+
+
+  <button onclick="changeText()">Click Me</button>
+
+
+  <script>
+    // JavaScript function
+    function changeText() {
+      document.getElementById("demo").innerHTML = "Hello, Swetha! 👋 This text changed using JavaScript.";
+    }
+  </script>
+</body>
+</html>
